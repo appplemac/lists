@@ -1,4 +1,4 @@
 lists
 =====
 
-Solutions to the lists from Jutge.org
+The sets of solutions to the lists from Jutge.org
